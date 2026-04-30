@@ -91,7 +91,7 @@ pnpm install
 
 ### 4. Setup Dodo Payments
 
-1. Create an account at [Dodo Payments](https://dashboard.dodopayments.com)
+1. Create an account at [Dodo Payments](https://app.dodopayments.com/signup)
 2. Go to **Settings** → **API Keys** and copy your API key
 3. Go to **Settings** → **Webhooks** and copy the webhook secret
 
