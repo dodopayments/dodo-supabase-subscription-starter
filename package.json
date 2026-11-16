@@ -16,7 +16,7 @@
     "deploy:webhook": "supabase functions deploy dodo-webhook --no-verify-jwt"
   },
   "dependencies": {
-    "@dodopayments/nextjs": "^0.1.9",
+    "@dodopayments/nextjs": "^0.3.9",
     "@hookform/resolvers": "^5.2.1",
     "@radix-ui/react-accordion": "^1.2.12",
     "@radix-ui/react-alert-dialog": "^1.1.15",
@@ -71,7 +71,7 @@
     "standardwebhooks": "^1.0.0",
     "tailwind-merge": "^3.3.1",
     "vaul": "^1.1.2",
-    "zod": "^3.25.74"
+    "zod": "^4.6.7"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
